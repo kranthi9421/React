@@ -1,0 +1,12 @@
+////Git Hub///
+
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/kranthi9421/React.git
+git push -u origin master
+
+>>>>>>>>All Next<<<<<<<<<<<<<<
+git add .
+git commit -m "first commit"
+git push
